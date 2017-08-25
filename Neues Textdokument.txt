@@ -1,0 +1,28 @@
+watch -n1 mailq
+
+
+All Users	BMW_FIZ	return_path_email	string	
+''admin@h2124376.stratoserver.net''
+
+All Users	BMW_FIZ	webmaster_email	string	
+''admin@h2124376.stratoserver.net''
+
+array (
+  0 => 
+  array (
+    'enabled' => 1,
+    'description' => 'Mail@BMWFIZ',
+    'mailbox_type' => 'IMAP',
+    'hostname' => 'h2124376.stratoserver.net',
+    'port' => '',
+    'encryption' => 'SSL',
+    'ssl_cert_verify' => 0,
+    'erp_username' => 'bmwfiz@h2124376.stratoserver.net',
+    'erp_password' => 'dGhjb21hOFM=',
+    'auth_method' => 'LOGIN',
+    'project_id' => 39,
+    'global_category_id' => 93,
+    'imap_basefolder' => '',
+    'imap_createfolderstructure' => 0,
+  ),
+)
