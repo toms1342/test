@@ -1,0 +1,33 @@
+BOD
+MAL
+BOL
+BAN
+KOZ
+PLU
+MIK
+
+new		rot	neu
+feedback	lila	Rückmeldung
+acknowledged	orange	anerkannt
+confirmed	gelb	bestätigt
+assigned	blau	zugewiesen
+resolved	grün	erledigt
+closed		grau	geschlossen
+
+viewer
+reporter
+updater
+developer	Zuweisung möglich
+manager		Zuweisung möglich
+administrator	Zuweisung möglich
+
+BOD Bartosz Bodnar
+MAL Jakub Malochleb
+BOL Ewelina Bolek
+BAN Patrycja Banasinska
+KOZ Jerzy Koziol
+PLU Kamil Pluciennik
+MIK Arkadiusz Mikolajczyk
+
+Jakub Malochleb
+
