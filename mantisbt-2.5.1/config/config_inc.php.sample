@@ -75,7 +75,7 @@ $g_return_path_email    = 'admin@example.com';	# the return address for bounced 
 # $g_logo_image			= 'images/mantis_logo.png';
 # $g_favicon_image		= 'images/favicon.ico';
 
-# --- Real names. ---
+# --- Real names.. ---
 # $g_show_realname = OFF;
 # $g_show_user_realname_threshold = NOBODY;	# Set to access level (e.g. VIEWER, REPORTER, DEVELOPER, MANAGER, etc)
 
